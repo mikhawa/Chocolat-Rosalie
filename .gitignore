@@ -13,3 +13,6 @@ logs/emails.log
 vendor/
 
 .DS_Store
+
+# JetBrains PHPStorm
+.idea
