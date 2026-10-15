@@ -3,6 +3,12 @@
 Le livre de recettes au chocolat de la Maison Rosalie, en site web.
 Projet MVC en PHP basé sur le modèle [choco-classe1](https://github.com/WebDevCF2m2026/choco-classe1).
 
+## Administration
+
+        admin@admin.com 
+
+        Webdev2026
+
 ## Stack
 
 - HTML, CSS natif (nesting), JavaScript sans framework
